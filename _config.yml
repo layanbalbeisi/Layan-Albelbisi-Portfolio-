@@ -1,1 +1,20 @@
+header:
+  image: "/assets/header.jpg" # add a header image
+  height: "200px" # adjust the height
+
+# Navigation
+navigation:
+  - title: "Home"
+    url: "/"
+  - title: "Projects"
+    url: "/projects"
+  - title: "About"
+    url: "/about"
+  - title: "Contact"
+    url: "/contact"
+
+# Footer settings
+footer:
+  copyright: "© 2024 Layan Albelbisi"
+  contact_info: "Email: layanalbelbeisi@gmail.com"
 
