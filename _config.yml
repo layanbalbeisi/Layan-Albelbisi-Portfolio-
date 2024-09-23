@@ -1,6 +1,41 @@
-title: Minimal theme
-logo: /assets/img/logo.png
-description: Minimal is a theme for GitHub Pages.
-show_downloads: true
-google_analytics:
-theme: jekyll-theme-minimal
+title: "Layan Albelbisi's Data Portfolio"
+description: "Showcasing projects and skills in Data Analysis and Business Intelligence."
+baseurl: "" # Leave empty for root
+url: "https://yourusername.github.io" # Replace with your GitHub Pages URL
+theme: minima # Simple, clean theme
+
+# Optional: Social Links
+social:
+  github: "https://github.com/yourusername" # Replace with your GitHub profile
+  linkedin: "https://linkedin.com/in/layan-bilbeisi" # Replace with your LinkedIn profile
+
+# Plugins
+plugins:
+  - jekyll-feed
+
+
+// _sass/styles.scss
+
+body {
+  background-color: #f9f9f9; // Light background
+  font-family: Arial, sans-serif; // Clean font
+}
+
+h1, h2, h3 {
+  color: #333; // Darker text for headings
+}
+
+a {
+  color: #007bff; // Link color
+  text-decoration: none;
+}
+
+a:hover {
+  text-decoration: underline; // Underline links on hover
+}
+
+.footer {
+  text-align: center;
+  padding: 20px;
+  background-color: #f1f1f1; // Footer background
+}
