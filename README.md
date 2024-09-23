@@ -13,7 +13,8 @@ Over the past few years, I have worked on diverse projects, from developing comp
 ## Project
   - ### 1. **Retail Sales Analysis** 
      This project analyzes retail sales data to identify trends and customer behavior. Using SQL for data cleaning and transformation.
-     **Live Link**: [View the Retail Sales Analysis](https://layanbalbeisi.github.io/Retail_Sales_using-SQL/)
+
+    **Live Link**: [View the Retail Sales Analysis](https://layanbalbeisi.github.io/Retail_Sales_using-SQL/)
 
   - ### 2. **Performance Report Dashboard**  
        This project involved creating a Power BI dashboard to monitor key business performance metrics in real-time. The dashboard provides actionable insights on sales, customer 
