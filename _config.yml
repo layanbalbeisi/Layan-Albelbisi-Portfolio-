@@ -1,20 +1,16 @@
-header:
-  image: "/assets/header.jpg" # add a header image
-  height: "200px" # adjust the height
+title: "Layan Albelbisi's Data Portfolio"
+description: "Showcasing projects and skills in Data Analysis and Business Intelligence."
+baseurl: "" # leave empty for root
+theme: minima # or another theme you prefer
 
 # Navigation
-navigation:
-  - title: "Home"
-    url: "/"
-  - title: "Projects"
-    url: "/projects"
-  - title: "About"
-    url: "/about"
-  - title: "Contact"
-    url: "/contact"
+plugins:
+  - jekyll-feed
 
-# Footer settings
-footer:
-  copyright: "© 2024 Layan Albelbisi"
-  contact_info: "Email: layanalbelbeisi@gmail.com"
+# Optional: Social Links
+social:
+  github: "https://github.com/yourusername" # replace with your GitHub profile
+  linkedin: "https://linkedin.com/in/layan-bilbeisi" # replace with your LinkedIn profile
 
+# Markdown options
+markdown: kramdown
