@@ -1,8 +1,8 @@
 ## Layan Albelbisi's Data Analytics
 
-Hello! I’m Layan Albelbisi, a Business Intelligence Engineer based in Amman, Jordan. I have a passion for turning raw data into meaningful insights that help drive business decisions. With a strong foundation in SQL, Python, and business intelligence tools like Power BI and Tableau, I focus on creating dynamic, interactive dashboards and writing complex queries to analyze and visualize data.
+Hello! I’m Layan Albelbisi, a Data Analytics based in Amman, Jordan. I have a passion for turning raw data into meaningful insights that help drive business decisions. With a strong foundation in SQL, Python, and business intelligence tools like Power BI and Tableau, I focus on creating dynamic, interactive dashboards and writing complex queries to analyze and visualize data.
 
-Over the past few years, I have worked on diverse projects, from developing comprehensive performance dashboards to data cleaning and analysis for strategic decision-making. My experience spans internships in data science and business intelligence roles, and I’m always looking for unique challenges where I can apply my skills and grow further
+Over the past few years, I have worked on diverse projects, from developing comprehensive performance dashboards to data cleaning and analysis for strategic decision-making. My experience spans internships in data science and Data analytics roles, and I’m always looking for unique challenges where I can apply my skills and grow further
 
 ## Key Skills
 - BI Tools: PowerBI, Tableau
