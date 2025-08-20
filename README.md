@@ -12,8 +12,8 @@ Over the past few years, I have worked on diverse projects, from developing comp
 
 ## Project
 
-  - ### 1. **Bank Analytics Dashboard  
-   A Power BI dashboard analyzing bank clients, card usage, and transactions; utilizing SQL, DAX, and BI techniques for strategic insights.  
+  - ### 1. ***Bank Analytics Dashboard  
+   A Power BI dashboard analyzing bank clients, card usage, and transactions; utilizing DAX, and BI techniques for strategic insights.  
    - **Repository:** [bank-analytics-powerbi](https://github.com/layanbalbeisi/bank-analytics-powerbi)  
    - **Download (v2025.08):** [⬇ Download PBIX file](https://github.com/layanbalbeisi/bank-analytics-powerbi/releases/download/2025.08/bank.Dashboard.pbix)  
 
