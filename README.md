@@ -11,25 +11,32 @@ Over the past few years, I have worked on diverse projects, from developing comp
 - Soft Skills: Communication, Problem-Solving, Collaboration
 
 ## Project
-  - ### 1. **Retail Sales Analysis** 
+
+- ### 1. Bank Analytics Dashboard  
+A Power BI dashboard analyzing bank clients, card usage, and transactions; utilizing SQL, DAX, and BI techniques for strategic insights.  
+- **Repository:** [bank-analytics-powerbi](https://github.com/layanbalbeisi/bank-analytics-powerbi)  
+- **Download (v2025.08):** [⬇ Download PBIX file](https://github.com/layanbalbeisi/bank-analytics-powerbi/releases/download/2025.08/bank.Dashboard.pbix)  
+- **SHA256 checksum:** `41ca6a935f590aef1f3352f2ce29221ff866c266fe1a85638a1c79b6a6ea8406`
+
+  - ### 2. **Retail Sales Analysis** 
      This project analyzes retail sales data to identify trends and customer behavior. Using SQL for data cleaning and transformation.
 
     **Live Link**: [View the Retail Sales Analysis](https://layanbalbeisi.github.io/Retail_Sales_using-SQL/)
 
-  - ### 2. **Performance Report Dashboard**  
+  - ### 3. **Performance Report Dashboard**  
        This project involved creating a Power BI dashboard to monitor key business performance metrics in real-time. The dashboard provides actionable insights on sales, customer 
        retention, 
        and operational efficiency, helping decision-makers improve business outcomes.
 
        **Live Link**: [View the Performance Report](https://layanbalbeisi.github.io/Performance-Report/)
 
-  - ### 3. **Top YouTubers in the UK for 2024**
+  - ### 4. **Top YouTubers in the UK for 2024**
      In this project, I analyzed data to identify the top YouTubers in the UK for 2024. The analysis involved using SQL for data preparation and Power BI for visualizing subscriber 
      growth, engagement, and content trends across channels.
 
      **Live Link**: [View the Top YouTubers Analysis](https://layanbalbeisi.github.io/Top_YouTubers_UK_2024/)
 
-  - ### 4.  **Data Science Job Salary Analysis**    
+  - ### 5.  **Data Science Job Salary Analysis**    
       This project analyzes Data Science job salaries using Microsoft Excel. The analysis explores the relationships between experience type, years of experience, and salary. 
       Additionally, I 
       calculated and visualized the average salary per employment type, offering insights into how different factors affect compensation for data science professionals.
