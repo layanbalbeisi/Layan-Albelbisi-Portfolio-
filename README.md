@@ -12,7 +12,7 @@ Over the past few years, I have worked on diverse projects, from developing comp
 
 ## Project
 
-  - ### 1. ***Bank Analytics Dashboard  
+  - ### 1. **Bank Analytics Dashboard**
    A Power BI dashboard analyzing bank clients, card usage, and transactions; utilizing DAX, and BI techniques for strategic insights.  
    - **Live Link:** :[Bank Analytics Powerbi](https://layanbalbeisi.github.io/bank-analytics-powerbi/)
 
