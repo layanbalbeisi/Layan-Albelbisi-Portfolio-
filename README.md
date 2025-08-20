@@ -14,7 +14,7 @@ Over the past few years, I have worked on diverse projects, from developing comp
 
   - ### 1. ***Bank Analytics Dashboard  
    A Power BI dashboard analyzing bank clients, card usage, and transactions; utilizing DAX, and BI techniques for strategic insights.  
-   - **Live Link:** :[View the Retail Sales Analysis](https://layanbalbeisi.github.io/bank-analytics-powerbi/)
+   - **Live Link:** :[Bank Analytics Powerbi](https://layanbalbeisi.github.io/bank-analytics-powerbi/)
 
   - ### 2. **Retail Sales Analysis** 
      This project analyzes retail sales data to identify trends and customer behavior. Using SQL for data cleaning and transformation.
